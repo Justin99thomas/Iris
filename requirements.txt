@@ -1,5 +1,5 @@
 streamlit
 plotly.express
 pandas
-sklearn.datasets
+sklearn
 matplotlib
